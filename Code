@@ -20,7 +20,7 @@
 
       <!-- 🌸 BLOEM -->
       <a-entity 
-        gltf-model="flower.glb"
+        gltf-model="Altaar.glb"
         scale="0.3 0.3 0.3"
         position="0 0 0"
         rotation="0 0 0">
